@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Emily Roycroft"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "genomics – evolution – phylogenetics – conservation" # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "Site under development"
+description              : "Emily Roycroft Lab, Monash University, research in genomics, evolution, phylogenetics, conservation, Australian mammals and reptiles"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "eroycroft/eroycroft.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "https://emilyroycroft.com/wp-content/uploads/2017/09/tree11-e1506264381757.png?w=823&h=348&crop=1" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "https://emilyroycroft.com/wp-content/uploads/2017/09/tree11-e1506264381757.png?w=823&h=348&crop=1" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -89,7 +89,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@Emily_Roycroft"
 facebook:
   username               :
   app_id                 :
