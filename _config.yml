@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eroycroft/eroycroft.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://emilyroycroft.com/wp-content/uploads/2017/09/tree11-e1506264381757.png?w=823&h=348&crop=1" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "https://emilyroycroft.com/wp-content/uploads/2017/09/tree11-e1506264381757.png?w=823&h=348&crop=1" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -142,7 +142,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: https://twitter.com/Emily_Roycroft
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
